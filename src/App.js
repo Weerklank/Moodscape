@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
-import Header from "./components/Header"
+import Header from "./components/Header";
 import Calendar from "./pages/Calendar";
 import Journal from "./pages/Journal";
 import Index from "./pages/Index";

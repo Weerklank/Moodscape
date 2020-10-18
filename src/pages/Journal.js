@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import '../utils/css/journal.css'
-import '../utils/js/journalScript.js'
 import { NewButton, Button, Img } from '../components/Buttons'
 import { BtnColumn, BtnRow } from '../components/InputHolders';
 import { Emote, Paper, Lines } from '../components/JournalPage';

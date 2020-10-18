@@ -1,4 +1,4 @@
-var connection = require("./connection.js")
+const connection = require("./connection.js")
 
 var journalEntry = {
     returnAll: function (fn) {
